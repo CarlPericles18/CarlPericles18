@@ -4,18 +4,17 @@ I am currently an active duty military personnel. Currently on 2 years self-taug
 
 - 🌱 I’m currently learning Next.js, Vite.js, React Native
 
-
-
-
 - <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chrix40&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrix40&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CarlPericles18&show_icons=true&theme=tokyonight" width="45%" />
+   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlPericles18&theme=tokyonight" width="45%"/>
 </div>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlPericles18&theme=tokyonight&layout=compact" width="45%" />
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 
 - #### Language and frameworks
@@ -23,14 +22,12 @@ I am currently an active duty military personnel. Currently on 2 years self-taug
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px">
 </p>
-- 
-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Contacts: 
 <p align='left'>
