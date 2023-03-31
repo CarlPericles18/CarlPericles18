@@ -31,6 +31,7 @@ I am currently an active duty military personnel. Currently on 2 years self-taug
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Contacts: 
+<div display="flex">
 <p align='left'>
    <a href="https://www.linkedin.com/in/carl-pericles-8940ab15b/" target="_blank"><img height="30"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;   
    </p>
@@ -42,5 +43,7 @@ I am currently an active duty military personnel. Currently on 2 years self-taug
   src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"></a>&nbsp;&nbsp;
  </p>
  
-  <a href="https://www.instagram.com/carl_pericles/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:carlpericles18@gmail.com"></a>&nbsp;&nbsp;
+  <a target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:carlpericles18@gmail.com"></a>&nbsp;&nbsp;
  </p>
+ 
+ </div>
