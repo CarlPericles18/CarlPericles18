@@ -1,6 +1,6 @@
 ### Hi there I'm Carl Pericles👋
 
-I am currently an active duty military personnel. Currently on 2 years self-taught learning fronted web developing and looking for to enhance my skill and to learn something new.
+I am currently an active duty military personnel.Learning fronted web developing and looking for to enhance my skill and learn something new.
 
 - 🌱 I’m currently learning Next.js, Vite.js, React Native
 
