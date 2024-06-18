@@ -2,7 +2,7 @@
 
 I am a Military Veteran. Aspiring Data Analytics and always looking for something new to enhance my skill.
 
-- 🌱 I’m currently Learning SQL and Phyton
+- 🌱 I’m currently learning SQL and Phyton
 
 #### Language and frameworks
 <p>
