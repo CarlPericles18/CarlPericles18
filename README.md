@@ -1,8 +1,8 @@
 ### Hi there I'm Carl Pericles👋
 
-I am currently an active duty military personnel. I'm Learning front-end web developing and always looking for something new to enhance my skill.
+I am a Military Veteran. Aspiring Data Analytics and always looking for something new to enhance my skill.
 
-- 🌱 I’m currently learning Next.js, Vite.js, React Native
+- 🌱 I’m currently SQL and Phyton
 
 #### Language and frameworks
 <p>
